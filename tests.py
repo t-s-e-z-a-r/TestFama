@@ -1,5 +1,5 @@
 import unittest
-from back.main import XML_to_string, parse_XML
+from main import XML_to_string, parse_XML
 
 class TestXMLParsing(unittest.TestCase):
     
